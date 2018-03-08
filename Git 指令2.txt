@@ -1,0 +1,2 @@
+指令：
+生产ssh公钥  ssh-keygen -t rsa
